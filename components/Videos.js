@@ -39,12 +39,12 @@ const PostLink=props=>(
   export default function Videos(props) {
       return(
           <div>
-            <PostLink id="Lana del Rey-Blue Jeans"></PostLink>
+        
             <PostLink id="Future - Life Is Good ft. Drake"></PostLink>
             <PostLink id="Kazılı Kuyum"></PostLink>
-            <PostLink id="G-Eazy - Halsey - Him and I"></PostLink>
+            
             <PostLink id="Gazapizm-Unutulacak Dünler"></PostLink>
-            <PostLink id="gnash - i hate u, i love u ft. olivia o'brien"></PostLink>
+            
             </div>
       )
   }
